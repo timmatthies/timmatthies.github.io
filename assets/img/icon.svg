@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.4666669"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="18.654814"
+     inkscape:cx="27.580013"
+     inkscape:cy="14.071435"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,6.5803128"
+       orientation="1,0"
+       id="guide15367" />
+    <sodipodi:guide
+       position="0.92190233,8.4666669"
+       orientation="0,-1"
+       id="guide15369" />
+    <sodipodi:guide
+       position="4.2549338,8.9347096"
+       orientation="1,0"
+       id="guide25899" />
+    <sodipodi:guide
+       position="5.1342868,4.2117329"
+       orientation="0,-1"
+       id="guide25901" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#27232e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:3.8;stop-color:#000000"
+       id="rect15321"
+       width="8.5382347"
+       height="8.5382338"
+       x="0"
+       y="-2e-07" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.7807px;line-height:1;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.307249"
+       x="4.1507077"
+       y="3.9424939"
+       id="text5006"
+       transform="scale(1.0873479,0.91966883)"><tspan
+         sodipodi:role="line"
+         id="tspan5004"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7807px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.307249"
+         x="4.1507077"
+         y="3.9424939"><tspan
+           style="font-size:4.7807px;text-align:center;text-anchor:middle;fill:#ff4a4a;fill-opacity:1;stroke-width:0.307249"
+           id="tspan16031">T</tspan><tspan
+           style="font-size:4.7807px;text-align:center;text-anchor:middle;fill:#ffa938;fill-opacity:1;stroke-width:0.307249"
+           id="tspan18521">M</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.7807px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#00b78f;fill-opacity:1;stroke-width:0.307249"
+         x="4.1507077"
+         y="8.7231894"
+         id="tspan24069">?</tspan></text>
+  </g>
+</svg>
